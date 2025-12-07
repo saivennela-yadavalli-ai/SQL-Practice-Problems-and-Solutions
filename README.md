@@ -62,7 +62,7 @@ Also includes solutions for 10+ SQL practice problems.
 
 ## 📌 Author
 
-Created by **Sai Vennela** as part of SQL learning, debugging practice, and interview preparation.
+Created by **Sai Vennela Yadavalli** as part of SQL learning, debugging practice, and interview preparation.
 
 ---
 
